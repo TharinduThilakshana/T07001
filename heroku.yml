@@ -6,3 +6,4 @@ run:
     command:
       - python3 lichess-bot.py -u
     image: worker
+    
